@@ -1,0 +1,25 @@
+Users/Peers/VoicemailBox <--- Tied together, do them all as one piece
+
+--edit-change settings for tied extensions/speed dials
+--delete-reroute extensions
+Extensions/Speed Dial
+Schedules
+--anytime.js
+Ring Groups
+Auto Attendants
+--enable speed dials
+--Sound File
+--Menu Timeout
+--Menu Repeat
+--digit timeout
+--default for 0-9,*,#
+--timeout option/landing/default
+Conference Bridges
+--speeddials-show existing
+Settings
+Queues
+Call Blocking
+DID routing
+break out routes
+
+queue-default
